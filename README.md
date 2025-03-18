@@ -1,0 +1,1 @@
+This machine learning project utilizes the Facebook Prophet model to predict Google's stock price based on historical data from 2010 to 2024. The model identifies trends and seasonal patterns in stock movements to generate future price forecasts.
